@@ -5,6 +5,4 @@ out/
 target/
 .idea/
 .vscode/
-bin/
-out/
 .DS_Store
